@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Tahoma, san-serif;
+  background-color: brown;
+}
+h1 {
+  color: white;
+}
+.little {
+width: 500px;
+}
+#big {
+width: 800px;
+}
+#pap {
+  width: 1000;
+}
+.firstpara {
+color: red;
+}
+.secondpara {
+  color: green;
+}
+.thirdpara {
+  color: blue;
+}
